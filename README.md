@@ -1,6 +1,7 @@
 # Lyrics Fetcher
+A simple app for fetching song lyrics via avh lyrics api,
+using rust language and Dioxus framework
 
-A simple app for fetching song lyrics via avh lyrics api.
 
 
 
